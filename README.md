@@ -1,4 +1,4 @@
-# RunBuddy
+# RunBuddy-local
 ## Purpose
 A website that offers fitness training services. 
 
