@@ -117,7 +117,7 @@ footer a {
     color: #024e76;
     width: 40%;
     margin: 3.5%;
-    
+
     
   }
 
@@ -180,9 +180,6 @@ footer a {
 
 
 
-  .intro {
-    text-align: center;
-  }
 
  
 
@@ -193,12 +190,14 @@ footer a {
     font-size: 20px;
    /* add this alongside your other declarations */
     margin: 0 auto;
+    text-align: center;
+
   
   }
 
   
   .steps {
-    text-align: center;
+    
     background: #fce138;
   }
 
@@ -206,11 +205,12 @@ footer a {
 
   .section-title {
     font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
+    color: #024e76;       
     border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
     
   }
   
@@ -247,7 +247,8 @@ footer a {
   }
 
   .trainers {
-    text-align: center;
+    
+
   }
 
   .trainer {
@@ -290,6 +291,12 @@ footer a {
     text-align: right;
   }
 
+  .flex-row {
+    display:flex;
+  
+  }
+
+
 
   .trainer-bio h3 {
     font-size: 32px;
@@ -312,7 +319,7 @@ footer a {
   /* REACH OUT STYLES START */
 
   .contact {
-  text-align: center;
+  
   background: #024e76;
   }
 
